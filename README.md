@@ -1,4 +1,4 @@
-treehouse
+Treehouse
 =========
 
-team treehouse project
+Team Treehouse Project
